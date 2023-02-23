@@ -7,4 +7,3 @@ export const chainKeyDefault = process.env.NEXT_PUBLIC_CHAIN_KEY_DEFAULT;
 export const metaIcon = process.env.NEXT_PUBLIC_META_ICON;
 export const appUrl = process.env.NEXT_PUBLIC_APP_URL;
 export const requestAccount = process.env.NEXT_PUBLIC_REQUEST_ACCOUNT;
-

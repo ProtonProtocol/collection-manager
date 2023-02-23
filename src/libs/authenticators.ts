@@ -17,12 +17,12 @@ export const authenticators = Object.keys(chainsConfig).reduce(
             appName,
             disableGreymassFuel: true,
             transportOptions: {
-              requestAccount
+              requestAccount,
             },
             selectorOptions: {
               appName,
               dialogRootNode: '#__next',
-            }
+            },
           })
       ),
     };

@@ -22,5 +22,5 @@ export default {
     protocol: process.env.NEXT_PUBLIC_PROTON_TESTNET_PROTOCOL,
     host: process.env.NEXT_PUBLIC_PROTON_TESTNET_HOST,
     port: process.env.NEXT_PUBLIC_PROTON_TESTNET_PORT,
-  }
+  },
 };
